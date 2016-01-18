@@ -1,0 +1,58 @@
+#msg {
+  position: relative;
+  top: 50px;
+  font-family: 'Architects Daughter' cursive;
+  font-size: 48px;
+  color: red;
+}
+.btn-control {
+  width: 100px;
+  height: 50px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.btn-min-sec {
+  margin-left: 6px;
+  margin-right: 6px;
+  margin-bottom: 9px;
+  color: black;
+}
+.settings {
+  //border: 1px white solid;
+  color: white;
+  font-size: 24px
+}
+body {
+  background-color: #222;
+}
+#title {
+  font-family: Pacifico;
+  font-size: 72px;
+  color: #00BFFF;
+}
+#timer {
+  padding-top: 24px;
+  font-size: 250px;
+  color: #FFF;
+}
+.col-centered {
+  display:inline-block;
+  float:none;
+  /* inline-block space fix */
+  margin-right:-20px;
+  margin-left: -20px;
+}
+.row-centered {
+    text-align:center;
+}
+.about {
+  position: absolute;
+  bottom: 0;
+  left: 5px;
+  color: white;
+}
+.links {
+  position: absolute;
+  bottom: 0;
+  right: 5px;
+}
